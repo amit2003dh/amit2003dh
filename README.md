@@ -1,4 +1,4 @@
-# Hey there, I'm Amit! 👋 
+# Hey there, I'm Amit! 
 
 Welcome to my corner of GitHub! I am a final-year B.Tech student in Electronics & Communication Engineering at **NIT Bhopal (MANIT)**. I'm a full-stack developer who loves building things from scratch, diving deep into code, and figuring out how things work under the hood.
 
@@ -25,19 +25,19 @@ Right now, I am heavily focused on the **MERN Stack** and building smart workflo
 
 ---
 
-### 🚀 What I've Been Building
+###  What I've Been Building
 
-*   🚜 **KisanSetu** – A full-stack marketplace connecting farmers directly with buyers. I integrated Google Gemini AI for smart leaf disease detection and used Socket.io for real-time negotiation chat.
-*   🎵 **SongSavvy** – A content-based recommendation engine for Bollywood music, built using Python, scikit-learn, and a sleek Streamlit interface.
-*   🏥 **Hospital Management System** – A robust backend project where I designed a 7-table relational database from scratch, applying strict 3NF normalization to keep data clean and efficient.
+*    **KisanSetu** – A full-stack marketplace connecting farmers directly with buyers. I integrated Google Gemini AI for smart leaf disease detection and used Socket.io for real-time negotiation chat.
+*    **SongSavvy** – A content-based recommendation engine for Bollywood music, built using Python, scikit-learn, and a sleek Streamlit interface.
+*    **Hospital Management System** – A robust backend project where I designed a 7-table relational database from scratch, applying strict 3NF normalization to keep data clean and efficient.
 
-🏆 **Hackathon Highlights:**
+ **Hackathon Highlights:**
 * **Cluster Winner @ Spark War 4.0** – Ranked in the **top 19 out of 17,000+ participants** nationwide.
 * **2nd Prize (National Runner-Up) @ Spike AI BuildX** – Built and pitched high-impact AI workflows under intense timeline pressure.
 
 ---
 
-### 📊 GitHub Stats & Code Activity
+###  GitHub Stats & Code Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit2003dh&show_icons=true&theme=tokyonight&count_private=true" alt="Amit's GitHub Stats" height="190px" />
@@ -50,12 +50,12 @@ Right now, I am heavily focused on the **MERN Stack** and building smart workflo
 
 ---
 
-### 🤝 Let's Connect!
+###  Let's Connect!
 
 I'm always open to talking tech, collaborating on open-source projects, or discussing the future of AI. Hit me up!
 
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/amit-dhakad-9b2573259)
-- 🌐 Take a look at my live [Portfolio Website](https://portfolio-chi-five-4frqv0oa3d.vercel.app/)
+-  Connect with me on [LinkedIn](https://linkedin.com/in/amit-dhakad-9b2573259)
+-  Take a look at my live [Portfolio Website](https://portfolio-chi-five-4frqv0oa3d.vercel.app/)
 <!--
 **amit2003dh/amit2003dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

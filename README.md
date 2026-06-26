@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! I am a final-year B.Tech student in Electronics & Communication Engineering at **NIT Bhopal (MANIT)**. I'm a full-stack developer who loves building things from scratch, diving deep into code, and figuring out how things work under the hood.
 
-Right now, I am heavily focused on the **MERN Stack** and building smart workflows using **Generative AI, Retrieval-Augmented Generation (RAG), and AI Agents**. When I'm not wrestling with APIs or styling components, you can usually find me sharpening my problem-solving skills—I've cracked **500+ DSA challenges** so far!
+Right now, I am heavily focused on the **MERN Stack** and building smart workflows using **Generative AI, Retrieval-Augmented Generation (RAG), and AI Agents**. When I'm not wrestling with APIs or styling components, you can usually find me sharpening my problem-solving skills, I've cracked **500+ DSA challenges** so far!
 
 ---
 
@@ -31,7 +31,9 @@ Right now, I am heavily focused on the **MERN Stack** and building smart workflo
 *   🎵 **SongSavvy** – A content-based recommendation engine for Bollywood music, built using Python, scikit-learn, and a sleek Streamlit interface.
 *   🏥 **Hospital Management System** – A robust backend project where I designed a 7-table relational database from scratch, applying strict 3NF normalization to keep data clean and efficient.
 
-🏆 *Fun fact: I recently took home the **2nd Prize (National Runner-Up)** at the Spike AI BuildX Hackathon!*
+🏆 **Hackathon Highlights:**
+* **Cluster Winner @ Spark War 4.0** – Ranked in the **top 19 out of 17,000+ participants** nationwide.
+* **2nd Prize (National Runner-Up) @ Spike AI BuildX** – Built and pitched high-impact AI workflows under intense timeline pressure.
 
 ---
 

@@ -6,7 +6,7 @@ Right now, I am heavily focused on the **MERN Stack** and building smart workflo
 
 ---
 
-### 🛠️ My Tech Toolbox
+###  My Tech Toolbox
 
 **Frontend & Backend**
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

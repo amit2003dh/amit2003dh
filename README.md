@@ -1,6 +1,6 @@
 # Hey there, I'm Amit! 
 
-Welcome to my corner of GitHub! I am a final-year B.Tech student in Electronics & Communication Engineering at **NIT Bhopal (MANIT)**. I am an adaptive software engineer who loves building highly scalable systems from scratch, optimizing backend architectures, and productionalizing intelligent AI models.
+Welcome to my corner of GitHub! I am a B.Tech Graduated in Electronics & Communication Engineering at **NIT Bhopal (MANIT)**. I am an adaptive software engineer who loves building highly scalable systems from scratch, optimizing backend architectures, and productionalizing intelligent AI models.
 
 My expertise spans full-stack engineering across the **MERN Stack** alongside deep engineering in **Python, Machine Learning pipelines, and Generative AI (RAG, AI Agents)**. Whether it's building low-latency REST APIs, training neural networks, or optimization, I love solving hard technical problems under the hood. I've solved **500+ Data Structures & Algorithms (DSA) challenges** across platforms!
 

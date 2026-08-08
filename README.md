@@ -36,10 +36,10 @@ My expertise spans full-stack engineering across the **MERN Stack** alongside de
 
 ### Featured Projects
 
-*  **Small Language Model (Transformer)** – Built a 15M-parameter transformer model from scratch using **PyTorch**, configuring customized tokenization and self-attention layers. Handled heavy data prep via **Pandas** and scaled training workflows using mixed-precision acceleration under **CUDA**.
-*  **AI-Powered Medical Claim Auditor** – Developed a **Python** backend featuring a high-throughput **REST API** to automate medical claim validation and fraud discovery. Engineered data pipelines with **NumPy** and **Pandas** to process and structure multimodal claims prior to LLM analysis.
 *  **KisanSetu** – A comprehensive full-stack marketplace connecting farmers directly with buyers. Integrated Google Gemini AI for smart leaf disease diagnostic pipelines and utilized Socket.io for handling real-time negotiation chat rooms.
 *  **SongSavvy** – An audio analytics and content-based recommendation system engineered via Python, built on unstructured data analysis using **Pandas**, and deployed through a lightweight Streamlit interface.
+*  **Small Language Model (Transformer)** – Built a 15M-parameter transformer model from scratch using **PyTorch**, configuring customized tokenization and self-attention layers. Handled heavy data prep via **Pandas** and scaled training workflows using mixed-precision acceleration under **CUDA**.
+*  **AI-Powered Medical Claim Auditor** – Developed a **Python** backend featuring a high-throughput **REST API** to automate medical claim validation and fraud discovery. Engineered data pipelines with **NumPy** and **Pandas** to process and structure multimodal claims prior to LLM analysis.
 
  **Hackathon Highlights:**
 * **2nd Prize (National Runner-Up) @ Spike AI BuildX** – Built and pitched high-impact AI architectures under intense timeline constraints.
